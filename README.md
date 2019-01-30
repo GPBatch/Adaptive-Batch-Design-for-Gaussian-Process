@@ -1,4 +1,4 @@
-# Adaptive-Batch-Design-for-Gaussian-Process
+# Gaussian-Process-with-Batch-Design
 This is the supplementary material for the paper "Adaptive Batching for Gaussian Process Surrogates with Application in Noisy Level Set Estimation" 
 
 ## GPstuff
